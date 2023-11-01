@@ -1,8 +1,8 @@
-# TextAnalyzer
-Text Analyzer is a web-based application built using Django, MySQL, HTML, and CSS. This application allows users to input text and perform various text-processing operations on the provided string. 
+# TextManipulator
+TextManipulator is a web-based application built using Django, MySQL, HTML, and CSS. This application allows users to input text and perform various text-processing operations on the provided string. 
 
 # Features
-Text Analyzer provides the following text processing operations:
+TextManipulator provides the following text-processing operations:
 
 1. Remove Punctuations: Remove all punctuation characters from the input text.
 2. Change to Uppercase: Convert all characters in the text to uppercase.
